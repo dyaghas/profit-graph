@@ -4,13 +4,13 @@
 
 A graph that calculates profit through user input
 
-The process can be divided into three steps:
+The process can be divided in three steps:
 
-1) The user informs how many values he wants in the graph, being able to calculate the profit for each month in an year, for example;
+1) The user informs how many values he wants in the graph, being able to calculate the profit for each month in a year, for example;
 
 2) The user informs the revenue and the expenses;
 
-3) The program shows the revenue, expense and profit in a graph.
+3) The program shows the revenue, expense, and profit in a graph.
 
 
 --Português--
