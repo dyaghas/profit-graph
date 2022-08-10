@@ -1,8 +1,12 @@
 # profit_graph
 
---English--
+## English
+
+### General info
 
 A graph that calculates profit through user input
+
+### How to use
 
 The process can be divided in three steps:
 
@@ -13,9 +17,13 @@ The process can be divided in three steps:
 3) The program shows the revenue, expense, and profit in a graph.
 
 
---Português--
+## Português
+
+### Informação geral
 
 Gráfico que calcula o lucro através do input do usuário
+
+### Como usar
 
 O processo pode ser dividido em três etapas:
 
