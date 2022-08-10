@@ -1,5 +1,17 @@
 # profit_graph
 
+## Table of contents / Tabela de conteúdo
+
+English
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [How does it work](#how-does-it-work)
+
+Português
+* [Informações gerais](#informações-gerais)
+* [Tecnologias](#tecnologias)
+* [Como funciona](#como-funciona)
+
 # English
 
 ## General info
@@ -11,7 +23,7 @@ A graph that calculates profit in a determined period of time through user input
 - Python 3.10
 - matplotlib 3.5.2
 
-## How to use
+## How does it work
 
 The process can be divided in three steps:
 
@@ -29,7 +41,7 @@ The process can be divided in three steps:
 
 # Português
 
-## Informação geral
+## Informações gerais
 
 Gráfico que calcula o lucro em determinado período através de inputs do usuário.
 
@@ -38,7 +50,7 @@ Gráfico que calcula o lucro em determinado período através de inputs do usuá
 - Python 3.10
 - matplotlib 3.5.2
 
-## Como usar
+## Como funciona
 
 O processo pode ser dividido em três etapas:
 
