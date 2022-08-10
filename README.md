@@ -4,7 +4,7 @@
 
 ### General info
 
-A graph that calculates profit through user input
+A graph that calculates profit in a determined period of time through user inputs.
 
 ### How to use
 
@@ -21,7 +21,7 @@ The process can be divided in three steps:
 
 ### Informação geral
 
-Gráfico que calcula o lucro através do input do usuário
+Gráfico que calcula o lucro em determinado período através de inputs do usuário.
 
 ### Como usar
 
