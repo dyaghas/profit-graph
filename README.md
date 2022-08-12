@@ -1,4 +1,4 @@
-# profit_graph
+# profit_graph | Gráfico de lucros
 
 ## Table of contents / Tabela de conteúdo
 
@@ -11,8 +11,6 @@ Português
 * [Informações gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
 * [Como funciona](#como-funciona)
-
-# English
 
 ## General info
 
@@ -36,8 +34,6 @@ The process can be divided in three steps:
 3) The program shows the revenue, expense, and profit in a graph.
 
 ![image](https://user-images.githubusercontent.com/56042071/184019011-64838e16-aa95-4839-a8ab-a4d29c33b838.png)
-
-
 
 # Português
 
